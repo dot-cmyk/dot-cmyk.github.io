@@ -2,7 +2,7 @@
 # Site settings
 title:       "ㅇㄴㄹㄴㅇ"
 email:       your_email@example.com
-author:      ㅁㅁ
+author:      asd
 description: "ㅁㄴㅇㅋㅋㅋ"
 baseurl:     ""
 url:         "https://dot-cmyk.github.io/"
@@ -131,5 +131,5 @@ exclude:
   - screenshot.png
   - vendor
 
-
+remote_theme : johno/pixyll
 
