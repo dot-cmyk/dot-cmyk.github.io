@@ -4,7 +4,7 @@ title:       "ㅇㄴㄹㄴㅇ"
 email:       your_email@example.com
 author:      asd
 description: "ㅁㄴㅇㅋㅋㅋ"
-baseurl:     ""
+baseurl:     "https://dot-cmyk.github.io"
 url:         "https://dot-cmyk.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
