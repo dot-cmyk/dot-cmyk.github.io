@@ -5,7 +5,7 @@ email:       your_email@example.com
 author:      asd
 description: "ㅁㄴㅇㅋㅋㅋ"
 baseurl:     ""
-url:         "https://dot-cmyk.github.io/"
+url:         "https://dot-cmyk.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
